@@ -1,0 +1,14 @@
+body {
+  width: 1500px;
+  height: 800px;
+  margin: 0 auto;
+}
+#graph {
+  width: 1500px;
+  height: 800px;
+  margin: 20px auto 0 auto;
+}
+pre {
+  height: 250px;
+  overflow: auto;
+}
